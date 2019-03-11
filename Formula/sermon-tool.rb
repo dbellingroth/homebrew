@@ -1,0 +1,1 @@
+https://github.com/dbellingroth/sermon-tool/archive/master.zip
