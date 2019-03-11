@@ -83,7 +83,7 @@ class Ffmpeg < Formula
         --disable-indev=jack
         --enable-libaom
         --enable-libsoxr
-        --enable-fdk-aac
+        --enable-libfdk-aac
         --enable-nonfree
       ]
   
