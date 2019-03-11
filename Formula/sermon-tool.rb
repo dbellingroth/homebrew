@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-https://github.com/dbellingroth/sermon-tool/archive/master.zip
-=======
+
 class SermonTool < Formula
   desc "A tool for converting and upload sermon files"
   homepage ""
@@ -20,4 +18,3 @@ class SermonTool < Formula
     system "which sermon"
   end
 end
->>>>>>> d9001707670a621a2fbf397a1e9befe2eb8ef2d3
