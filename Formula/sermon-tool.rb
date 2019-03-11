@@ -6,7 +6,7 @@ class SermonTool < Formula
   depends_on "dialog"
   depends_on "jq"
   depends_on "atomicparsley"
-  depends_on "ffmpeg" => "with-fdk-aacjq"
+  depends_on "ffmpeg" => "with-fdk-aac"
 
   def install
     system "mkdir -p #{prefix}/bin"
