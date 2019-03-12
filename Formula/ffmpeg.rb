@@ -40,6 +40,7 @@ class Ffmpeg < Formula
     depends_on "x265"
     depends_on "xvid"
     depends_on "xz"
+    depends_on "fdk-aac"
   
     def install
       args = %W[
